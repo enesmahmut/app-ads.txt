@@ -1,5 +1,5 @@
 #AdMob
-google.com, pub-7295018886187538, DIRECT, f08c47fec0942fa0
+google.com, pub-8098984869492807, DIRECT, f08c47fec0942fa0
 #Last updated May 12, 2021
 #Appodeal
 appodeal.com, 128673, DIRECT
